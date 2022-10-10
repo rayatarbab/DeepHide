@@ -1,0 +1,8 @@
+numpy
+Cython
+python-telegram-bot
+python-opencv
+moviepy
+insightface
+onnx
+onnxruntime
